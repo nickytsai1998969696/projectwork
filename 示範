@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<body>
+<div style="height:150px;background-color:lightgray"><h1 style="margin:0px">Header</h1>
+</div>
+<div style="float:left;width:200px;height:300px;background-color:lightgreen">
+<h1 style="margin:0px">Left Menu</h1>
+</div>
+<div style="float:right;width:200px;height:300px;background-color:lightyellow">
+<h1 style="margin:0px">Right Menu</h1>
+</div>
+<div style="height:300px;background-color:lightblue">
+<h1 style="margin:0px">Content</h1>
+</div>
+<div style="height:75px;background-color:lightgray">
+<h1 style="margin:0px">Footer</h1>
+</div>
+</body>
+</html>
